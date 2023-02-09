@@ -1,0 +1,68 @@
+[
+    {
+        "precio": 3500,
+        "id": 1,
+        "tittle": "Laptop",
+        "imageUrl": "https://picsum.photos/id/0/600"
+    },
+    {
+        "precio": 250,
+        "id": 2,
+        "tittle": "Plant",
+        "imageUrl": "https://picsum.photos/id/400/600"
+    },
+    {
+        "precio": 1350,
+        "id": 3,
+        "tittle": "Banca",
+        "imageUrl": "https://picsum.photos/id/129/600"
+    },
+    {
+        "precio": 100,
+        "id": 4,
+        "tittle": "Manzanilla",
+        "imageUrl": "https://picsum.photos/id/375/600"
+    },
+    {
+        "precio": 10000,
+        "id": 5,
+        "tittle": "Carro",
+        "imageUrl": "https://picsum.photos/id/555/600"
+    },
+    {
+        "precio": 1500,
+        "id": 6,
+        "tittle": "Books",
+        "imageUrl": "https://picsum.photos/id/444/600"
+    },
+    {
+        "precio": 500,
+        "id": 7,
+        "tittle": "Old Car",
+        "imageUrl": "https://picsum.photos/id/111/600"
+    },
+    {
+        "precio": 950,
+        "id": 8,
+        "tittle": "Candado",
+        "imageUrl": "https://picsum.photos/id/336/600"
+    },
+    {
+        "precio": 750,
+        "id": 9,
+        "tittle": "Bandera",
+        "imageUrl": "https://picsum.photos/id/580/600"
+    },
+    {
+        "precio": 600,
+        "id": 10,
+        "tittle": "Wood",
+        "imageUrl": "https://picsum.photos/id/600/600"
+    },
+    {
+        "precio": 2500,
+        "id": 11,
+        "tittle": "Bote",
+        "imageUrl": "https://picsum.photos/id/50/600"
+    }
+]
